@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "STARGET",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-14T06:03:06.478253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STARGET",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_STARGET_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starget (Instrumental)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_Starget_(Instrumental)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STARGET",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/03_STARGET_THE_ORAL_CIGARETTES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STARGET",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_STARGET_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
